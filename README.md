@@ -1,7 +1,7 @@
 # KOLLEGE
 
 
-[kollege.onrender.com](https://kollege.onrender.com)
+[LocalHost](localhost:3000)
 
 A College Based Data Base Management System Project.
 
@@ -11,8 +11,8 @@ A College Based Data Base Management System Project.
 
 ### Teacher [staff]
 
-**username:** Delphine  
-**pwd:** Delphine123
+**username:** faiyaz  
+**pwd:** faiyaz
 
 Teacher can add or edit
 
@@ -23,8 +23,8 @@ Teacher can add or edit
 
 ### HOD (Head of Department) [staff]
 
-**username:** Moriah  
-**pwd:** Moriah123
+**username:** aryank  
+**pwd:** aryank123
 
 HOD can do everything Teacher can.  
 HOD can also
@@ -68,7 +68,7 @@ Student can also join or leave a Paper(Subject).
 Clone the project:
 
 ```bash
-  git clone https://github.com/iafthab/kollege.git
+  git clone https://github.com/aryankaushik11/College_mngm
 ```
 
 Change Directory:
