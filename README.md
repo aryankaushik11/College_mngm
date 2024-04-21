@@ -1,7 +1,6 @@
 # KOLLEGE
 
-
-[LocalHost](localhost:3000)
+[LocalHost](http://localhost:3000)
 
 A College Based Data Base Management System Project.
 
