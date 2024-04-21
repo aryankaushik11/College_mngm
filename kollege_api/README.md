@@ -56,7 +56,7 @@ You'll need to add an HOD manually.
 🚀 Use a REST API client like Postman/Thunder Client.
 
 Request Method: **POST**  
-Request Address: **<http://localhost:3500/staff>**  
+Request Address: **<http://localhost:3000/staff>**  
 Request Body:
 
 ```javascript
