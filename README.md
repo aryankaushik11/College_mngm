@@ -73,7 +73,7 @@ Clone the project:
 Change Directory:
 
 ```bash
-  cd kollege
+  cd College_mngm
 ```
 
 Install dependencies:
