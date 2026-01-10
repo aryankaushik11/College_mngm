@@ -215,3 +215,10 @@
 22/04/2024, 10:30:55	0dd536af-ae32-4dbe-b32e-c9f8e3980536	GET	/internal/student/6625f01f3ad93bead12a314b	http://localhost:3000
 22/04/2024, 10:30:55	87d25d86-41be-4b82-8fec-34956c4bd725	GET	/paper/student/6625f01f3ad93bead12a314b	http://localhost:3000
 22/04/2024, 10:30:55	bf68c127-01ae-406a-942b-4ef17ce9b01b	GET	/paper/student/6625f01f3ad93bead12a314b	http://localhost:3000
+11/01/2026, 00:06:39	91e1625e-1f50-493e-a169-db957899aa22	OPTIONS	/staff/	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	2a965fc9-55a1-4a93-9e15-f7158733ccc2	OPTIONS	/staff/	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	d9ef04d8-4646-4aa3-ace4-2a9916007377	OPTIONS	/staff/	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	88eae5da-4c9d-4280-a687-e494de8072f1	OPTIONS	/staff/	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	c16dca5e-5eb5-465b-9f25-283ff007bb71	OPTIONS	/staff/	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	c9a25ec1-ef59-4d42-905f-392fdccc50d2	OPTIONS	/student	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	545e10b6-e2a3-481f-a93c-9c2669d599ff	OPTIONS	/student	https://college-mngm.vercel.app
