@@ -22,17 +22,15 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use("/", express.static("public"));
-
-app.use("/", require("./routes/root"));
-
-app.use("/auth", require("./routes/authRoutes"));
-app.use("/paper", require("./routes/paperRoutes"));
-app.use("/notes", require("./routes/notesRoutes"));
-app.use("/internal", require("./routes/internalRoutes"));
-app.use("/attendance", require("./routes/attendanceRoutes"));
-app.use("/time_schedule", require("./routes/timeScheduleRoutes"));
-app.use("/staff", require("./routes/staffRoutes"));
-app.use("/student", require("./routes/studentRoutes"));
+app.use("/api", require("./routes/root"));
+app.use("/api/auth", require("./routes/authRoutes"));
+app.use("/api/paper", require("./routes/paperRoutes"));
+app.use("/api/notes", require("./routes/notesRoutes"));
+app.use("/api/internal", require("./routes/internalRoutes"));
+app.use("/api/attendance", require("./routes/attendanceRoutes"));
+app.use("/api/time_schedule", require("./routes/timeScheduleRoutes"));
+app.use("/api/staff", require("./routes/staffRoutes"));
+app.use("/api/student", require("./routes/studentRoutes"));
 
 app.all("*", (req, res) => {
   res.status(404);
