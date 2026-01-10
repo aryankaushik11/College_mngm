@@ -259,3 +259,10 @@
 11/01/2026, 00:06:39	d1f705b9-76c7-4334-a45f-f7adc74f8e7e	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
 11/01/2026, 00:06:39	12098d4c-3d34-422c-be24-b0e60c4aed5a	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
 11/01/2026, 00:06:39	969a084d-f97e-47fe-90b4-16e5f7a37aa5	OPTIONS	/auth/login/student	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	19476173-b8dd-436b-a05c-79106e8d66c4	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	7e89cb6e-f511-4c31-a519-ec9333d46a54	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	90226eb4-c99a-4e98-8b8b-05cc0015070a	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	6d09f6cf-a201-40ab-83fa-53e49767fddb	OPTIONS	/auth/login/staff	http://localhost:3000
+11/01/2026, 00:06:39	3d2ad2f1-3eff-4dd8-b276-03930de07d8c	POST	/auth/login/staff	http://localhost:3000
+11/01/2026, 00:06:39	25e3418a-774b-45c6-82cf-253c50b9fd5b	GET	/paper/staff/662555c529f610aa4cc8495e	http://localhost:3000
+11/01/2026, 00:06:39	cbf3c4ef-561b-4ec8-b044-ecf3eee0cf1b	GET	/paper/staff/662555c529f610aa4cc8495e	http://localhost:3000

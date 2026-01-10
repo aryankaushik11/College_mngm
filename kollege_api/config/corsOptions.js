@@ -5,9 +5,8 @@ const allowedOrigins = [
 const corsOptions = {
   origin: (origin, callback) => {
     if (
-      allowedOrigins.indexOf(origin) !== -1
-      //! remove in production
-      // || !origin
+      allowedOrigins.indexOf(origin) !== -1 ||
+      /https:\/\/.*\.vercel\.app$/.test(origin)
     ) {
       callback(null, true);
     } else {

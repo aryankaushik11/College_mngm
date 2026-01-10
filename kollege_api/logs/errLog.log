@@ -58,3 +58,6 @@
 11/01/2026, 00:06:39	211b600c-43da-459e-9f10-ebd23e5b2faf	Error:Not Allowed by CORS	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
 11/01/2026, 00:06:39	96052617-08b2-46ec-a1b1-b536b686135a	Error:Not Allowed by CORS	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
 11/01/2026, 00:06:39	713d668f-808d-484b-8bd1-36cf7efe1a46	Error:Not Allowed by CORS	OPTIONS	/auth/login/student	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	985f448b-9dc3-4b1c-8768-3a27ee3c69df	Error:Not Allowed by CORS	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	81b90c2a-239b-4620-8df7-67dfaad447ad	Error:Not Allowed by CORS	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
+11/01/2026, 00:06:39	d7068913-29f9-4d2b-b1ca-5c8864cd8080	Error:Not Allowed by CORS	OPTIONS	/auth/login/staff	https://college-mngm.vercel.app
