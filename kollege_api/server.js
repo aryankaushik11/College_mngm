@@ -47,8 +47,13 @@ app.use(errorHandler);
 
 mongoose.connection.once("open", () => {
   console.log("Connected to MongoDB");
-  app.listen(PORT, () => console.log(`server running on PORT ${PORT}`));
+  // Only listen if not running as a Vercel serverless function
+  if (require.main === module) {
+    app.listen(PORT, () => console.log(`server running on PORT ${PORT}`));
+  }
 });
+
+module.exports = app;
 
 mongoose.connection.on("error", (err) => {
   console.log(err);
