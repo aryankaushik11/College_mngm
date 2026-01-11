@@ -10,8 +10,8 @@ PS: BE KIND :)
 
 ### Teacher
 
-**username:** Delphine  
-**pwd:** Delphine123
+**username:** faiyaz  
+**pwd:** faiyaz
 
 Teacher can add or edit
 
@@ -22,8 +22,8 @@ Teacher can add or edit
 
 ### HOD
 
-**username:** Moriah  
-**pwd:** Moriah123
+**username:** aryank  
+**pwd:** aryank123
 
 HOD can do everything Teacher can.  
 HOD can also
@@ -33,8 +33,8 @@ HOD can also
 
 ### Student
 
-**username:** Bret  
-**pwd:** Bret
+**username:** lamineyamal  
+**pwd:** aryank123
 
 Or register a new Student and Login.  
 You can also login with the First Name of any student in the class.
